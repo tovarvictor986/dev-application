@@ -11,7 +11,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>App</mainClass>
+							<mainClass>dev_application.App</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
