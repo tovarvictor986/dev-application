@@ -13,10 +13,8 @@ public class ApplicationController {
 	@RequestMapping(value = "/users/get")
 	@CrossOrigin(origins = "*", methods= {RequestMethod.GET})
 	public String GetUsers()  {
-		
-//		ResponseEntity<String> response = null;
 
-		return "hola";
+		return "heroku integration";
 	}
 
 }
