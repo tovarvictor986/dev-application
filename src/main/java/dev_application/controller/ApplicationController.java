@@ -14,7 +14,7 @@ public class ApplicationController {
 	@CrossOrigin(origins = "*", methods= {RequestMethod.GET})
 	public String GetUsers()  {
 
-		return "heroku integration &&&&&& +++++";
+		return "heroku integration &&&&&& +++++ ";
 	}
 
 }
