@@ -15,7 +15,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>br.com.experian.colombia.ac_notificaciones.App</mainClass>
+							<mainClass>dev-application.App</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
